@@ -1,0 +1,353 @@
+a,p,li,h1,h2,h3,h4,h5,h6{
+    color: #333;
+    font-family: 'Open Sans';
+}
+img{
+    max-width: 100%;
+}
+.content-banner{
+    background-color: rgba(7,10,41,0.57);
+    height: 100%;
+}
+.img-banner{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+.logo{
+    width: 11rem;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.content-banner h2{
+    color: #fff;
+    font-family: 'Lobster';
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 3rem;
+}
+.content-banner h1{
+    font-family: 'Open Sans';
+    color: #85ab00;
+    font-weight: 700;
+    margin-top: 2rem;
+    font-size: 3em;
+}
+.bd-top-baner{
+    border-bottom: #fff solid 0.3px;
+    padding-bottom: 5rem;
+}
+.fa-phone{
+    transform: rotateY(180deg);
+    font-size: 2em;
+    margin-top: 5px;
+    float: left;
+}
+.phone{
+    color: #fff;
+}
+.phone h2{
+    font-size: 2em;
+    margin-left: 38px;
+    margin-bottom: 20px;
+}
+.btn-dangki{
+    background-color: #85ab00;
+    font-size: 1.4em;
+    font-weight: 600;
+    margin-bottom: 1.9em;
+}
+.content-main-top1{
+    margin-top: 5em;
+    margin-left: 5em;
+}
+.content-main-top1 h1{
+    font-family: 'Lobster',cursive;
+}
+.content-main-top1 p{
+    font-family: "Open Sans", sans-serif;
+}
+.content-banner p{
+    color: #FFF;
+}
+.wtf h5{
+    float: left;
+    font-family: 'Lobster',cursive;
+}
+.wtf span{
+    color: #85ab00;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+.wtf p{
+    margin-top: 0.5rem;
+    color: rgba(102,102,102,1);
+    font-family: 'Open Sans',sans-serif;
+}
+.content-main-top2{
+    background-image: url(https://static.ladipage.net/s1440x500/57b167c9ca57d39c18a1c57c/counter.jpg);
+}
+.content-main-top2 h1{
+    color: rgba(133,171,0,1);
+    font-family: 'Open Sans';
+    font-weight: 700;
+    margin-top: 1rem;
+}
+.content-main-top2 p{
+    color: #fff;
+}
+.widget-element{
+    width: 4em;
+    height: 4em;
+}
+.content-main-top3{
+    padding-top: 5em;
+    padding-left: 5em;
+    background-color: #e3e3e3;
+}
+.content-main-top3 h1{
+    font-family: 'Lobster',cursive;
+}
+.content-main-top3 p{
+    font-family: "Open Sans", sans-serif;
+}
+
+.ic-blu{
+    padding: 2rem 5rem;
+    background-color: #fff;
+    border: #85ab00 dotted 3px;
+    margin: 1rem;
+}
+.content-main-top4 h1{
+    font-family: 'Lobster',cursive;
+}
+.content-main-top4 p{
+    font-family: "Open Sans", sans-serif;
+}
+.content-main-top4{
+    padding-top: 5em;
+    padding-left: 5em;
+    background-image: url(https://static.ladipage.net/s1440x1000/57b167c9ca57d39c18a1c57c/1-1.jpg);
+    background-size: contain;
+}
+.content-main-top4 h2{
+    float: right;
+    font-size: 3.5em;
+    font-weight: 700;
+    color: #B5B5B5;
+    margin-top: 3rem;
+}
+.right{
+    float: right;
+    display: block;
+}
+
+
+.ic-top4{
+    border: rgba(171,171,171,1) solid 1px;
+    border-radius: 5px;
+}
+.ic-top4 div{
+    width: 3rem;
+    margin-top: 10px;
+}
+.ic-top4 p{
+    margin-top: -10px;
+}
+.info-img{
+    position: relative;
+}
+.info-img p{
+    color: #fff;
+}
+.info-img center {
+    z-index: 1;
+    position: absolute;
+    top: 19rem;
+    padding-left: 5rem;
+    background-color: rgba(0,0,0,0.57);
+    padding: 0.4rem 4.2rem;
+}
+.show-img img{
+width: 80%;
+height: 11rem;
+margin-left: -1rem;
+margin-top: 4rem;
+}
+.content-main-top5 h1{
+    font-family: 'Lobster',cursive;
+    margin-top: 5rem;
+    color: #FFF;
+}
+.content-main-top5 p{
+    font-family: "Open Sans", sans-serif;
+    color: #FFF;
+}
+.content-main-top5{
+    background-image: url(https://static.ladipage.net/s1440x800/57b167c9ca57d39c18a1c57c/bg-2.jpg);
+}
+.show-home img{
+    height: 10rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+.content-main-top6 h1{
+    font-family: 'Lobster',cursive;
+    margin-top: 5rem;
+}
+.content-main-top6 p{
+    font-family: "Open Sans", sans-serif;
+}
+.comment{
+    background-color: rgba(238,238,238,1);
+    padding: 2rem 1rem;
+}
+.comment b{
+    font-size: 2em;
+    font-weight: 400;
+}
+.comment p{
+    font-size: 0.8em;
+}
+.info-comment{
+    margin-top: 3rem;
+}
+.info-comment img{
+    width: 5rem;
+    height: 5rem;
+    float: left;
+}
+.info-comment div{
+    margin: 1rem;
+}
+.info-comment p{
+    color: #85ab00;
+    font-size: 1em;
+}
+.info-comment h6{
+    font-weight: 800;
+}
+.condition{
+    padding: 1.5rem 2.4rem;
+    background-color: rgba(133,171,0,1);
+    width: 6rem;
+    border: rgba(100,129,0,1) solid 3px;
+    float: left;
+}
+.condition h2{
+    text-align: center;
+    font-size: 2em;
+    color: #fff;
+    font-family: 'Lobster',cursive;
+}
+.content-main-top7{
+    background-image: url(https://static.ladipage.net/s1440x800/uploads/images/a8963f0e-6318-47ac-bc96-e8f096867a9f.jpg);
+    /* background-size: contain; */
+}
+.top7-left{
+    background-color: black;
+    position: relative;
+    margin-top: 0px;
+}
+.top7-left div{
+    margin-top: 1rem;
+    width: 3rem;
+}
+.content-top7-left span{
+    font-size: 5em;
+    font-weight: 700;
+    border-bottom: #fff solid 3px;
+    color: #fff;
+}
+.top7-left p{
+    color: #fff;
+    font-weight: 700;
+    position: absolute;
+    bottom: 0;
+}
+.content-top7-left{
+    background-color: rgba(133,171,0,1);
+    position: absolute;
+    z-index: 1;
+    width: 120%!important;
+    margin-left: -3rem;
+    height: 16rem;
+    margin-top: 0;
+}
+.content-top7-left center{
+    margin-top: 3rem;
+    font-size: 1.6em;
+    font-weight: 700;
+    color: #fff;
+}
+.top7-right{
+    background-color: rgba(38,38,38,1);
+}
+.top7-right h3{
+    color: #fff;
+}
+.top7-right ul{
+    margin-top: 2rem;
+}
+.top7-right li{
+    color: #fff;
+    list-style-type: none;
+    text-align: left;
+    margin-top: 1rem;
+}
+.top7-right input{
+    width: 80%;
+    margin-top: 2rem;
+    height: 3rem;
+}
+.top7-right button{
+    margin-top: 2rem;
+    width: 80%;
+    background-color: rgba(133,171,0,1);
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 3rem;
+}
+.row-top7{
+    margin-bottom: 10rem;
+    margin-top: 10rem;
+}
+.content-main-top8{
+    background-color: rgba(28,28,28,1);
+}
+.content-main-top8 span img{
+    width: 50%;
+    margin-top: 4rem;
+    margin-left: 7rem;
+}
+.content-main-top8 ul{
+    margin-left: 5rem;
+    list-style-type: none;
+}
+.content-main-top8 li{
+    color: #fff;
+    font-size: 0.9rem;
+}
+.content-main-top8 h2{
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: #85ab00;
+    font-weight: 900;
+}
+.content-main-top8 h6{
+    color: #fff;
+    font-weight: 600;
+    margin-top: 1.8rem;
+}
+.content-main-top8 p{
+    color: #fff;
+}
+.footer-1{
+    background-color: #85ab00;
+    height: 100%;
+}
+.footer-1 p{
+    padding-top: 1rem;
+}
