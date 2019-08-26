@@ -165,9 +165,8 @@ img{
     z-index: 1;
     position: absolute;
     top: 19rem;
-    padding-left: 5rem;
     background-color: rgba(0,0,0,0.57);
-    padding: 0.4rem 4.2rem;
+    padding: 0.4rem 4.9rem;
 }
 .show-img img{
 width: 80%;
